@@ -1,8 +1,8 @@
-# Hola! Me llamo *John Doe*
+# Hola! Me llamo *Geovanna Dela cruz*
 
-- A mi me gusta jugar videojuegos como Stardew Valley y Hollow Knight!
+- A mi me gusta mucho bailar, ver series y aprender cosas nuevas!
 
-- Me gustaría aprender acerca de *desarrollo web* y d*esarrollo de aplicaciones*
+- Me gustaría aprender *muchos tipos de lenguajes*, *desarrollo de aplicaciones* y *programar*
 
-> Mi materia favorita es *Fundamentos de Ingeniería de Software*
+> Mi materia favorita es *Algoritmia*
 
